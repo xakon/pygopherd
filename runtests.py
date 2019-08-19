@@ -27,7 +27,6 @@ import pygopherd.protocols
 import pygopherd.protocols.ProtocolMultiplexerTest
 import pygopherd.protocols.baseTest
 import pygopherd.protocols.rfc1436Test
-import pygopherd.protocols
 import pygopherd.handlers.ZIP
 
 def suite():
